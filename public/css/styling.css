@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+}
+.display_style {
+    color: seashell;
+    font-family: Arial;
+    letter-spacing: 2px;
+}
+.display_slot_1 {
+    margin-left: 5%;
+    font-size: 80px;
+}
+.display_slot_2 {
+    margin-left: 5%;
+    font-size: 50px;
+}
+.black {
+    background-color: #000000;
+}
